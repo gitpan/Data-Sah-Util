@@ -1,0 +1,7 @@
+Revision history for Data::Sah::Util
+
+0.01     2011-08-30
+
+         First release. This is a temporary distribution because Data-Sah is not
+         ready yet. Ultimately Data::Sah::Util will be merged with Data-Sah or
+         removed entirely.
